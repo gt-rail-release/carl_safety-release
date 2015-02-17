@@ -1,0 +1,12 @@
+Source: ros-indigo-carl-safety
+Section: misc
+Priority: extra
+Maintainer: David Kent <davidkent@wpi.edu>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-actionlib, ros-indigo-catkin, ros-indigo-geometry-msgs, ros-indigo-move-base-msgs, ros-indigo-nav-msgs, ros-indigo-roscpp, ros-indigo-sensor-msgs, ros-indigo-std-msgs, ros-indigo-std-srvs, ros-indigo-tf, ros-indigo-wpi-jaco-msgs
+Homepage: http://ros.org/wiki/carl_safety
+Standards-Version: 3.9.2
+
+Package: ros-indigo-carl-safety
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-actionlib, ros-indigo-geometry-msgs, ros-indigo-move-base-msgs, ros-indigo-nav-msgs, ros-indigo-roscpp, ros-indigo-sensor-msgs, ros-indigo-std-msgs, ros-indigo-std-srvs, ros-indigo-tf, ros-indigo-wpi-jaco-msgs
+Description: Remote User Safety Nodes for CARL
