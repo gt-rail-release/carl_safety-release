@@ -1,3 +1,24 @@
+## carl_safety (indigo) - 0.0.7-0
+
+The packages in the `carl_safety` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo carl_safety` on `Mon, 27 Apr 2015 15:24:48 -0000`
+
+The `carl_safety` package was released.
+
+Version of package(s) in repository `carl_safety`:
+- upstream repository: https://github.com/WPI-RAIL/carl_safety.git
+- release repository: https://github.com/wpi-rail-release/carl_safety-release.git
+- rosdistro version: `0.0.6-0`
+- old version: `0.0.6-0`
+- new version: `0.0.7-0`
+
+Versions of tools used:
+- bloom version: `0.5.20`
+- catkin_pkg version: `0.2.8`
+- rosdep version: `0.11.2`
+- rosdistro version: `0.4.2`
+- vcstools version: `0.1.36`
+
+
 ## carl_safety (indigo) - 0.0.6-0
 
 The packages in the `carl_safety` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo carl_safety` on `Fri, 17 Apr 2015 12:09:03 -0000`
